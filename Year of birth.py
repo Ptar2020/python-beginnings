@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 age = float(input('Type in your age in order to know which year you were born: '))
 year_of_birth = (2020 - age)
 print("Your year of birth is", year_of_birth)
